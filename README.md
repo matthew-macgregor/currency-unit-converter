@@ -6,7 +6,7 @@ $1.00 == 4 quarters).
 
 To install the dependencies:
 
-`bundle install --local`
+`bundle install`
 
 Command line usage:
 
